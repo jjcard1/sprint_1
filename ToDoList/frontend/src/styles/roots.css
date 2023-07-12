@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap'); 
+
+:root{
+    --cl-white: #ffffff;
+    --cl-gray-0a: #f7f7f7;
+    --cl-gray-0b: #fafafa;
+    --cl-gray-1: #eeeeee;
+    --cl-gray-2: #dddddd;
+    --cl-gray-2t: #dddddd22;
+    --cl-gray-3: #cccccc;
+    --cl-gray-4: #bbbbbb;
+    --cl-gray-5: #aaaaaa;
+    --cl-gray-6: #999999;
+    --cl-gray-7: #888888;
+    --cl-gray-8: #777777;
+    --cl-gray-9: #666666;
+    --cl-gray-10: #555555;
+    --cl-red-1: #f1457e;
+    --cl-red-1t: #f1457e22;
+    --cl-red-1h: #eb2466;
+    --cl-blue-1: #6fdaf5;
+    --cl-blue-1t: #6fdaf5aa;
+    --cl-blue-1h: #52cceb;
+    --cl-blue-2: #1dafd3;
+    --cl-blue-3: #04596e;
+    --cl-blue-4: #09b6d4;
+    --cl-blue-4t: #09b6d422;
+    --cl-yellow-1: #eee23e;
+    --cl-yellow-1t: #eee23e22;
+    --cl-yellow-2: #e9e5b9;
+    --cl-black-1t: #000000aa;
+    --cl-black-2t: #00000011;
+    --cl-black-3t: #00000033;
+    --cl-green-1: #56e41f;
+    --cl-green-1t: #56e41f22;
+
+    --w-inputs-box: 400px;
+}

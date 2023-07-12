@@ -1,0 +1,12 @@
+INSTRUCTIONS
+
+Los patrones de diseño son soluciones probadas a problemas típicos y recurrentes que podemos encontrar en el desarrollo de una aplicación. Ante un problema que nos encontramos durante el desarrollo de nuestra aplicación, si podemos solucionarlo con un patrón, le aplicamos en lugar de reinventar la rueda.
+
+Aquí te proponemos algunos patrones de diseño para que elijas uno para estudiarlo en profundidad:
+-> Patrones de diseño
+
+La idea surge del hecho de que, cuando debemos explicar un tema, la forma en que lo preparamos nos proporciona un conocimiento más profundo. Aprovecha esta oportunidad para convertirte en un experto del patrón que elijas y, al mismo tiempo, ayudar a tus compañeros y compañeras a conocerle a través de tu explicación.
+
+Nivel 1
+
+Esta entrega consiste en realizar una explicación del patrón de diseño escogido y preparar todo el material didáctico que necesites (readme, prueba de concepto, material visual…).
