@@ -4,7 +4,7 @@ const MiniCssExtractPlugin= require('mini-css-extract-plugin')
 
 
 module.exports = {
-   entry: './sprint_1/ToDoList/frontend/app.js',
+   entry: './ToDoList/frontend/app.js',
    mode: 'development',
    output: {
       path: path.resolve(__dirname, './dist'),
@@ -20,7 +20,7 @@ module.exports = {
    },
    plugins:[
       new HtmlWebpackPlugin({
-         template: './sprint_1/ToDoList/frontend/src/index.html',
+         template: './ToDoList/frontend/src/index.html',
          minify: {
             collapseWhitespace: true
          }

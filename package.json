@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "cli": "tsc -b && node sprint_1/ToDoList/cli/index.js",
-    "build":"webpack --config sprint_1/ToDoList/frontend/webpack.config.js",
-    "start": "webpack-dev-server --config sprint_1/ToDoList/frontend/webpack.config.js"
+    "cli": "tsc -b && node ToDoList/cli/index.js",
+    "build":"webpack --config ToDoList/frontend/webpack.config.js",
+    "start": "webpack-dev-server --config ToDoList/frontend/webpack.config.js"
   },
   "keywords": [
     "tdd",

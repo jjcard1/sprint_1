@@ -8,7 +8,7 @@ The goal of this exercise is to create a task list application, usgin Typescript
 - Show the task list.
 
 ### _Development_
-` General instructions`
+`General instructions`
 1. Clone the repository using git bash
 ```sh
 git clone https://github.com/jjcard1/it_academy.git
@@ -25,7 +25,7 @@ In tsconfig.json make sure the configuration has the follow specification inside
 |Field|Value|
 |---|---|
 |"target"|"es5"|
-|"module"|""CommonJS|
+|"module"|"CommonJS"|
 
 `Activities`
 ##### Level 1: Use tests to check the functionality of the application.
@@ -66,4 +66,4 @@ localhost:8080
 ```
 Note: Sometimes the localhost port changes. When this happens, please check where the project is running in the information that appear in the terminal after completing the step 2.
 
-To stop the server press "ctrl + c", type "s" and press "enter"Sprint_1
+To stop the server press "ctrl + c", type "s" and press "enter"
